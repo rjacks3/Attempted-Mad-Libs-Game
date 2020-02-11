@@ -53,7 +53,7 @@ print(f"I Hope You're Ready {user}...")
 
 input()
 
-story = (f"{thematrix} is a {system}, {Neo}. That {system} is our {enemy}. " +
+story = (f"{thematrix} is a {system}, {neo}. That {system} is our {enemy}. " +
 f"But when you're inside, you {look} around, what do you see? " +
 f"{profession[0]},{profession[1]}, {profession[2]}, {profession[3]}.The very minds " +
 f"of the {people} we are trying to save. But until we do, " +
